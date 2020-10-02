@@ -1,0 +1,5 @@
+This are the exercises A1 for the C programming language.
+
+In order to run an exercises, copy and paste an individual exercise on a sepparate .c file.
+
+Gerardo Valderrama
