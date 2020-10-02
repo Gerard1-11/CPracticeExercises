@@ -7,7 +7,7 @@
 #include <time.h>
 #include <math.h>
 
-//Método común para encontrar los puntos mas cercanos
+//MÃ©todo comÃºn para encontrar los puntos mas cercanos
 void nestedLoopsAlgorithm() {
     //Iniciar el tiempo
     clock_t beginPoints = clock();
@@ -52,7 +52,7 @@ void nestedLoopsAlgorithm() {
     printf("Los puntos mas cercanos son A[%d, %d] y B[%d, %d].\n", puntoA[0], puntoA[1], puntoB[0], puntoB[1]);
 }
 
-//Métoto mejorado para encontrar puntos mas cercanos (reducción aprox. del 50% del tiempo)
+//MÃ©toto mejorado para encontrar puntos mas cercanos (reducciÃ³n aprox. del 50% del tiempo)
 void fasterAlgorithm() {
     //Iniciar el tiempo
     clock_t beginPoints = clock();
