@@ -1,0 +1,8 @@
+  
+This are the exercises A2 for the C programming language.
+
+In order to run an exercises, copy and paste an individual exercise on a sepparate .c file.
+
+Also, remember to py and paste the "include" statements that are at the beggining of the file. 
+
+Gerardo Valderrama
